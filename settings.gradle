@@ -1,0 +1,2 @@
+include ':app', ':restrictmod'
+rootProject.name='TestRestrict'
